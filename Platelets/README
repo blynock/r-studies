@@ -1,0 +1,9 @@
+This is code from a group project in the third year. Most, but not all was written by me. In particular I carried out 
+the EDA - all comments in that file are mine - and produced all of the visualisations.
+
+The purpose of the project was to identify significant predictors from a high-dimensional data set via LASSO,
+stepwise regression etc and fit a multiple regression model.
+
+I wasn't particularly happy with the final output from this project - the time pressure was very high, it was late in term two when
+the team were generally tired and busy with other work, and I felt we spent a lot of our limited time spinning our wheels before
+finally making progress very late in the day.
